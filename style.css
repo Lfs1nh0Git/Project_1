@@ -1,0 +1,13 @@
+body {
+    background-color: grey;
+    color: white;
+    text-align: center;
+    margin: 0 auto;
+    align-items: center;
+}
+input {
+    border-radius: 8px;
+}
+button {
+    background-color: rgb(199, 199, 199);
+}
